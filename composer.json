@@ -1,7 +1,7 @@
 {
 	"name": "taylorotwell/laravel-oauth2",
 	"type": "library",
-	"description": "Authorize users in your application with multiple OAuth 2.0 providers.",
+	"description": "Please don't use this package anymore. Use madewithlove/laravel-oauth2 instead.",
 	"keywords": ["laravel", "oauth2"],
 	"homepage": "http://github.com/madewithlove/laravel-oauth2",
 	"require": {
